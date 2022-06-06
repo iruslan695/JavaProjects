@@ -1,5 +1,5 @@
 Запуск программы осуществляется через консоль.
-java -jar здесь путь к проекту alphaGif\build\libs\alphaGif-0.0.1-SNAPSHOT.jar
+java -jar здесь путь к папке \build\libs\alphaGif-0.0.1-SNAPSHOT.jar
 
 или через IDE (я использовал Intellij IDEA) (JDK 9)
 
@@ -9,5 +9,5 @@ java -jar здесь путь к проекту alphaGif\build\libs\alphaGif-0.0
 
 
 Github не принимает файлы >25мб
-Просьба вставить данную папку build в alphaGif
+Папка build c программой здесь
 https://disk.yandex.ru/d/YpRAoBQZFPVXbA
